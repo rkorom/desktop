@@ -1,1 +1,1 @@
-ide jönnek a funkciók
+console.log("ide jönnek a funkciók");
