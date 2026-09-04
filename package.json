@@ -1,0 +1,23 @@
+{
+  "name": "desktop",
+  "version": "1.0.0",
+  "description": "Hello World\r asdasd",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rkorom/desktop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rkorom/desktop/issues"
+  },
+  "homepage": "https://github.com/rkorom/desktop#readme",
+  "dependencies": {
+    "axios": "^1.20.0"
+  }
+}
